@@ -7,7 +7,7 @@ https://taudemyclone.netlify.app/
 ### 🖼️ Learn how to create an image slider
 ### 📐 Learn the difference between the position properties: absolute, static, and relative
 ### 🛠️ Learn how to create tooltips for enhanced user interaction
-### 📲 Learn how JavaScript work on clickable and activatable div elements
+### 📲 Learn how JavaScript work on tabs layout
 
 ###
 ### It is not responsive, but responsiveness is under progress
